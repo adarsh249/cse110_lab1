@@ -35,6 +35,6 @@ Click [here](https://github.com/adarsh249/connect6) to see an unfinished persona
 5. list
 6. .
 
-- [x] Go to all my first classes.
-- [x] Eat lunch.
-- [ ] Submit this lab.
+[x] Go to all my first classes.
+[x] Eat lunch.
+[ ] Submit this lab.
