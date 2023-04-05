@@ -19,7 +19,7 @@ int main(){
 ```
 
 Click [here](https://github.com/adarsh249/connect6) to see an unfinished personal project I intend to complete one of these days.
-[This is a relative link](README.me)
+[This is a relative link](./README.me)
 
 - This
 - unordered
