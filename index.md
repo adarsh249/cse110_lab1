@@ -2,7 +2,7 @@
 ## About Me
 My name is Adarsh Patel and I am a 3rd year computer science major. (A transfer student).
 ## What I look Like
-![Pictures/70201654571__8B500D0E-E5C0-4DE9-8D0B-1F55C50C3334.JPG]
+![Image](Pictures/70201654571__8B500D0E-E5C0-4DE9-8D0B-1F55C50C3334.JPG)
 *This was me on my last day of spring break. Please don't judge*
 
 > The LA Lakers are winning the 2023 NBA Championship - Adarsh Patel
