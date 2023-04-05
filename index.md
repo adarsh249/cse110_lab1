@@ -7,7 +7,7 @@ My name is Adarsh Patel and I am a 3rd year computer science major. (A transfer 
 
 > The LA Lakers are winning the 2023 NBA Championship - Adarsh Patel
 
-Below is the first line of code I ever wrote:
+Below is the first block of code I ever wrote:
 ``` cpp
 #include <iostream>
 using namespace std;
@@ -19,7 +19,7 @@ int main(){
 ```
 
 Click [here](https://github.com/adarsh249/connect6) to see an unfinished personal project I intend to complete one of these days.
-[This is a relative link](./README.me)
+[This is a relative link](./README.md)
 
 - This
 - unordered
