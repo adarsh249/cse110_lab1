@@ -8,7 +8,7 @@ My name is Adarsh Patel and I am a 3rd year computer science major. (A transfer 
 > The LA Lakers are winning the 2023 NBA Championship - Adarsh Patel
 
 Below is the first line of code I ever wrote:
-``` C++
+``` cpp
 #include <iostream>
 using namespace std;
 
