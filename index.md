@@ -4,7 +4,8 @@ My name is Adarsh Patel and I am a 3rd year computer science major. (A transfer 
 ## What I look Like
 ![Image](Pictures/70201654571__8B500D0E-E5C0-4DE9-8D0B-1F55C50C3334.JPG)
 *This was me on my last day of spring break. Please don't judge*
-
+Below is the best picture I have of myself. Unfortunately, this was 4 years ago and I need to do another photoshoot once I increase my fashion sense.
+![Image](Pictures/29953.JPEG)
 > The LA Lakers are winning the 2023 NBA Championship - Adarsh Patel
 
 Below is the first block of code I ever wrote:
