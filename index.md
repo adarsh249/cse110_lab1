@@ -21,20 +21,25 @@ int main(){
 Click [here](https://github.com/adarsh249/connect6) to see an unfinished personal project I intend to complete one of these days.
 [This is a relative link](./README.md)
 
-- This
-- unordered
-- is
-- list
-- an
+- I
+- not
+- know
+- do
+- swim
+- to
+- how
 - .
 
-1. This 
-2. is
-3. an
-4. ordered
-5. list
-6. .
+1. I
+2. do
+3. not
+4. know
+5. how
+6. to
+7. swim
+8. .
 
-[x] Go to all my first classes.
-[x] Eat lunch.
-[ ] Submit this lab.
+Things I did while making this lab:
+- [x] Go to all my first classes.
+- [x] Eat lunch.
+- [ ] Submit this lab.
